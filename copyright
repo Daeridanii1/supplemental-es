@@ -1,0 +1,38 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Supplemental ES Materials
+Upstream-Contact: Daeridanii <daeridanii44@gmail.com>
+Source: https://github.com/Daeridanii1/supplemental-es
+
+Files:
+ artwork/*.png
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
+
+Files:
+ plugin-assets/DAIS/lindwurm*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Gefüllte Taubenbrust and Michael Zahniser (under the same license).
+
+Files:
+ plugin-assets/DAIS/hydrargyrum*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Anarchist2 and Michael Zahniser (under the same license).
+
+Files:
+ plugin-assets/DAIS/erinys*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Becca Tommaso and Michael Zahniser (under the same license).
+
+Files:
+ plugin-assets/DAIS/moonbeam*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Saugia (under the same license).
+
+Files:
+ plugin-assets/korath-flares-redone/*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
